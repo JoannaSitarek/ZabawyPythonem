@@ -1,4 +1,4 @@
 
-input = "Nazywam się Asia."
+input = "Nazywam się Joasia."
 
 print(input)
